@@ -1,0 +1,12 @@
+edu\services\ProductServiceLocal.class
+pos\entities\Cafeorderline.class
+pos\entities\Subfamily.class
+edu\services\ProductService.class
+edu\services\ProductServiceRemote.class
+pos\entities\CafeorderlinePK.class
+pos\entities\Cafetable.class
+pos\entities\Role.class
+pos\entities\Product.class
+pos\entities\Cafeorder.class
+pos\entities\Productfamily.class
+pos\entities\User.class
